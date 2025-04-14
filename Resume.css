@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+    height: 100%;
+    border: 2px solid black;
+     margin-left: 20%;
+}
+.name{
+    margin-top: 10px;
+    color: rgb(17, 143, 193);
+}
+.profile{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.edu{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.tab ,td,th, tr{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 2px solid rgb(10, 10, 10);
+    border-collapse:collapse ;
+    
+    
+}
+.project{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.tech{
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+.soft{
+    margin-left: 10px;
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+
+}
